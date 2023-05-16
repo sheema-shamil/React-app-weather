@@ -16,3 +16,5 @@ This is a weather app built with React.js that allows users to search for weathe
 ## Installation
 
 * To use this repo on your machine, you require some simple steps:
+
+## Step one
