@@ -20,3 +20,5 @@ This is a weather app built with React.js that allows users to search for weathe
 ## Step one
 
 * Open a terminal / command line interface on your computer
+
+* 
