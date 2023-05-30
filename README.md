@@ -26,3 +26,5 @@ This is a weather app built with React.js that allows users to search for weathe
 `https://github.com/sheema-shamil/React-app-weather`
 
 * After cloning and forking the repo, Install JavaScript dependencies
+
+`npm install`
