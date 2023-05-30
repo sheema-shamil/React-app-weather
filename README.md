@@ -37,3 +37,6 @@ This is a weather app built with React.js that allows users to search for weathe
 
 * Deployed link below
 
+`react-app-weather-lovat.vercel.app/`
+
+
